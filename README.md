@@ -3,10 +3,10 @@
 This project implements a **Traffic Light Controller** using a Finite State Machine (FSM) in Verilog HDL.
 
 ##  Features
-✔ FSM-based traffic control  
-✔ Highway priority logic  
-✔ Counter-based timing control  
-✔ Simulation verified using EPWave  
+1. FSM-based traffic control  
+2. Highway priority logic  
+3. Counter-based timing control  
+4. Simulation verified using EPWave  
 
 ##  State Sequence
 
